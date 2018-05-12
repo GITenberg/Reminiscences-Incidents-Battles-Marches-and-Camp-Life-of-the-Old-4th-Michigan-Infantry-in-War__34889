@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37301'
     url: http://www.gutenberg.org/2009/agents/37301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34889#Reminiscences-Incidents-Battles-Marches-and-Camp-Life-of-the-Old-4th-Michigan-Infantry-in-War_
 gutenberg_issued: '2011-01-08'
 gutenberg_type: Text
 identifiers:
